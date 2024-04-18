@@ -3,6 +3,7 @@
 This repository contains all my research project details pertaining to the Distortion rectification for Super-wide angle cameras used in V2V platooning
 
 ![HY_0007_20181115_114004_N_CH0](https://github.com/VijayKakani414/Distortion-Rectification-for-Super-wide-angle-cameras-used-in-V2V-platooning/assets/25151205/a809946d-e847-43bd-8cf8-d3f4be4117e4)
+![HY_0007_20181115_113951_N_CH0](https://github.com/VijayKakani414/Distortion-Rectification-for-Super-wide-angle-cameras-used-in-V2V-platooning/assets/25151205/5957406b-e3a1-4977-9070-afaa73e6f0ff)
 
 <img width="750" alt="undist-adasone" src="https://github.com/VijayKakani414/Distortion-Rectification-for-Super-wide-angle-cameras-used-in-V2V-platooning/assets/25151205/903a4d70-a3bc-4ae3-8682-87595b74f5d5">
 
